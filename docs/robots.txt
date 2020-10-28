@@ -3,4 +3,4 @@ Disallow: /wp-admin/
 Allow: /wp-admin/admin-ajax.php
 
 
-Sitemap: https://kazumasami.github.io/kazumasa.github.io//sitemap.xml
+Sitemap: https://kazumasami.github.io//sitemap.xml
