@@ -1,0 +1,16 @@
+.text-image {
+  position: relative;
+  height:100%;
+}
+
+.text-image img {
+  width: 100%;
+}
+
+.text-image p {
+  position: absolute;
+  top: 55%;
+  left: 2%;
+  font-size: 20px;
+  color: #83d114;
+}
